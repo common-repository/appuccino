@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .uk-scoped .uk-tab > .uk-active > a {
+ 	border-color: transparent!important;
+ }
